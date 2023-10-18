@@ -11,4 +11,4 @@ Additionally, **Socket.IO** is used to update the real-time information in the s
 We had also deployed the website to **AWS**(currently down).
 
 ## Demo template
-https://github.com/elvis027/MusicBar/assets/44467974/c530bb1e-9650-49df-8803-5cd6d22a335b
+https://github.com/elvis027/MusicBar/assets/44467974/5b1f8da4-e8fe-4c66-9ccf-5d53af13e99e
