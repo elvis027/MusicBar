@@ -1,0 +1,6 @@
+[submodule "MusicBar-Server"]
+	path = MusicBar-Server
+	url = https://github.com/elvis027/MusicBar-Server
+[submodule "MusicBar-Client"]
+	path = MusicBar-Client
+	url = https://github.com/elvis027/MusicBar-Client
